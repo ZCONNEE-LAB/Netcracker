@@ -21,7 +21,7 @@ All lab instructions are in the "Lab Docs" folder on your remote desktop, or can
 The server XML configuration files referenced in the exercises can be downloaded from [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/xml) to view it locally.
 
 
-**Please enter your email address used for registration to retrieve your unique log in details.**
+**Please enter your lab user name to retrieve your unique log in details.**
 
 <form onsubmit="return false;">
 <div class="input-group mb-3 col-6">
@@ -37,4 +37,4 @@ The server XML configuration files referenced in the exercises can be downloaded
 </div>
 
 ## Help 
-Having trouble with labs? Send an email to [Kenishia Callaway](mailto: kenishia@us.ibm.com) or [Mitch Johnson](mailto: mitchj@us.ibm.com) and we will help you sort it out.
+Having trouble with labs? Send an email to [Mitch Johnson](mailto: mitchj@us.ibm.com) and he will help you sort it out.
