@@ -13,7 +13,7 @@ Thank you for attending this Washington Systems Center(WSC) workshop.
 
 ## Accessing the hands-on lab
 
-Click [here](https://github.com/ZCONNEE-LAB/Columbus2022/blob/main/Remote%20Lab%20System%20Connection%20Instructions%20-%20SHARE%202022.pdf) to read the directions for IBM System access.
+Click [here](https://github.com/ZCONNEE-LAB/Columbus2022/blob/main/Remote%20Lab%20System%20Connection%20Instructions%20-%20SHARE%202022%20.pdf) to read the directions for IBM System access.
 
 All lab instructions are in the "Lab Docs" folder on your remote desktop, or can be downloaded from [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/OpenAPI2) to view it locally.
 
