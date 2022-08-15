@@ -10,11 +10,10 @@ Thank you for attending this Washington Systems Center(WSC) workshop.
 
 [//]: The WSC's z/OS Connect EE Getting Started Guide can be downloaded from [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/blob/master/zOS%20Connect%20EE%20V3%20Getting%20Started.pdf) to view it locally.
   
-Click [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/blob/master/ZCREQUEST%20%20-%20Introduction%20to%20zOS%20Connect%20EE.pdf) to download the presentation.
 
 ## Accessing the hands-on lab
 
-Click [here](https://github.com/kenishia/NA-ZCONNEE/blob/main/SSA%20Remote%20Lab%20System%20Connection%20Instructions.pdf) to read the instruction for IBM System access.
+Click [here](https://github.com/ZCONNEE-LAB/columbus2022/blob/main/Remote%20Lab%20System%20Connection%20Instructions.pdf) to read the instruction for IBM System access.
 
 All lab instructions are in the "Lab Docs" folder on your remote desktop, or can be downloaded from [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/OpenAPI2) to view it locally.
 
