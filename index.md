@@ -13,19 +13,19 @@ Thank you for attending this Washington Systems Center(WSC) workshop.
 
 ## Accessing the hands-on lab
 
-Click [here](https://github.com/ZCONNEE-LAB/Columbus2022/blob/main/Remote%20Lab%20System%20Connection%20Instructions%20-%20SHARE%202022%20.pdf) to read the directions for IBM System access.
+Click [here](https://github.com/ZCONNEE-LAB/Netcracker/blob/ee22808a27077f1dc6273d60292479ebc3688915/Remote%20Lab%20System%20Connection%20Instructions%20-%20github.pdf) to read the directions for IBM System access.
 
 All lab instructions are in the "Lab Docs" folder on your remote desktop, or can be downloaded from [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/OpenAPI2) to view it locally.
 
 The server XML configuration files referenced in the exercises can be downloaded from [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/xml) to view it locally.
 
 
-**Please enter your lab email address (ex: student1@share.conf) to retrieve your unique log in details.**
+**Please enter your email address (ex: johndoe@yourcompany.com) to retrieve your unique log in details.**
 
 <form onsubmit="return false;">
 <div class="input-group mb-3 col-6">
 <span class="input-group-text" id="basic-addon1">@</span>
-<input type="email" class="form-control" placeholder="Lab Email Address" aria-label="Email" aria-describedby="basic-addon1" id="registration-email" maxlength="50" required oninput="validate();">
+<input type="email" class="form-control" placeholder="Email Address" aria-label="Email" aria-describedby="basic-addon1" id="registration-email" maxlength="50" required oninput="validate();">
 </div>
 <div class="col-6">
 <button id="btn-submit" class="btn btn-primary" type="submit" onclick="getLab(document.getElementById('registration-email').value)" disabled>Submit</button>
@@ -35,4 +35,4 @@ The server XML configuration files referenced in the exercises can be downloaded
 </div>
 
 ## Help 
-Having trouble with labs? Send an email to [Mitch Johnson](mailto: mitchj@us.ibm.com) and he will help you sort it out.
+Having trouble with labs? Send an email to [Mitch Johnson](mailto: mitchj@us.ibm.com) or [Kenishia Callaway](mailto: kenishia@us.ibm.com) and we will help you sort it out.
