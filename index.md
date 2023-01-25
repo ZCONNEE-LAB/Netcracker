@@ -15,7 +15,7 @@ Thank you for attending this Washington Systems Center(WSC) workshop.
 
 Click [here](https://github.com/ZCONNEE-LAB/Netcracker/blob/ee22808a27077f1dc6273d60292479ebc3688915/Remote%20Lab%20System%20Connection%20Instructions%20-%20github.pdf) to read the directions for IBM System access.
 
-All lab instructions are in the "Lab Docs" folder on your remote desktop, or can be downloaded from [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/OpenAPI2) to view it locally.
+All API Requester lab instructions are in the "Lab Docs" folder on your remote desktop, or can be downloaded from [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/APIRequesters) to view it locally.
 
 The server XML configuration files referenced in the exercises can be downloaded from [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/xml) to view it locally.
 
