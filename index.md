@@ -17,7 +17,7 @@ Click [here](https://github.com/ZCONNEE-LAB/Netcracker/blob/ee22808a27077f1dc627
 
 All API Requester lab instructions are in the "Lab Docs" folder on your remote desktop, or can be downloaded from [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/APIRequesters) to view it locally.
 
-The server XML configuration files referenced in the exercises can be downloaded from [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/xml) to view it locally.
+The server XML configuration files referenced in the exercises can be downloaded from [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/XML%20Samples) to view it locally.
 
 
 **Please enter your email address (ex: johndoe@yourcompany.com) to retrieve your unique log in details.**
