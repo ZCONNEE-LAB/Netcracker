@@ -1,12 +1,12 @@
 IBM z/OS Connect EE Workshop,,,,,,,
 Serial No,URL,User ID for Web browser,IP Address for Remote Desktop,User ID for Remote Desktop,Password,Domain,machine #
-a44c51d1513efdd7a87b8a1159af10f0,https://T-556-169-59-153-144.ibmztrialmachines.com/,Administrator,T-556-169-59-153-144.ibmztrialmachines.com,w-556-k\Administrator,cuZ93TTkDjsmVeUM5kyG,w-556-k,556
-3cb4d28de9fed10712e0903a27283581,https://T-558-169-59-153-190.ibmztrialmachines.com/,Administrator,T-558-169-59-153-190.ibmztrialmachines.com,w-558-k\Administrator,TX3PWiqh4LWM0c0jzO6j,w-558-k,558
-5fa5038e003862e34856567e1caccbc4,https://T-557-169-59-153-220.ibmztrialmachines.com/,Administrator,T-557-169-59-153-220.ibmztrialmachines.com,w-557-k\Administrator,0biDVPZiIRKS2auuzlsQ,w-557-k,557
-744a73f977489e4439d0b0c44d2af0a7,https://T-560-169-59-153-198.ibmztrialmachines.com/,Administrator,T-560-169-59-153-198.ibmztrialmachines.com,w-560-k\Administrator,zEElXhXeqUu3WLMN9FYO,w-560-k,560
-1bce6f3bfa1c69450bed38979deb228c,https://T-562-169-59-153-146.ibmztrialmachines.com/,Administrator,T-562-169-59-153-146.ibmztrialmachines.com,w-562-k\Administrator,sz7Ze4pY8TcKSndcWF81,w-562-k,562
-933d479cca95dd64e8d942b427d59bf8,https://T-565-169-59-153-244.ibmztrialmachines.com/,Administrator,T-565-169-59-153-244.ibmztrialmachines.com,w-565-k\Administrator,GgozL36Kd5f8gTQZHnWa,w-565-k,565
-28f24ba494bdb8cbf48bfdb881e2a3aa,https://T-561-169-59-153-233.ibmztrialmachines.com/,Administrator,T-561-169-59-153-233.ibmztrialmachines.com,w-561-k\Administrator,jeRID1pya0EM7SurK0DA,w-561-k,561
-e9d98c5dd969d150dbff730e51e405f6,https://T-559-169-59-153-185.ibmztrialmachines.com/,Administrator,T-559-169-59-153-185.ibmztrialmachines.com,w-559-k\Administrator,cthl0Vz0Go06ny9bmoHx,w-559-k,559
-ee74215a2d7f82f9cf2c0498f1485010,https://T-564-169-59-153-239.ibmztrialmachines.com/,Administrator,T-564-169-59-153-239.ibmztrialmachines.com,w-564-k\Administrator,juUVNJOST2SnpErMUBvZ,w-564-k,564
-a780b6347fc3e3242e875f5d58814918,https://T-563-169-59-153-241.ibmztrialmachines.com/,Administrator,T-563-169-59-153-241.ibmztrialmachines.com,w-563-k\Administrator,TrUD73uU6e3E08zFaKLD,w-563-k,563
+a44c51d1513efdd7a87b8a1159af10f0,https://T-825-169-59-153-227.ibmztrialmachines.com/,Administrator,T-825-169-59-153-227.ibmztrialmachines.com,w-825-k\Administrator,Y9Z6khomXISwH9YbR8Zp,w-825-k,825
+3cb4d28de9fed10712e0903a27283581,https://T-815-169-59-150-178.ibmztrialmachines.com/,Administrator,T-815-169-59-150-178.ibmztrialmachines.com,w-815-k\Administrator,U82Kpuu8hUE7lGLmSPe3,w-815-k,815
+5fa5038e003862e34856567e1caccbc4,https://T-819-169-59-153-150.ibmztrialmachines.com/,Administrator,T-819-169-59-153-150.ibmztrialmachines.com,w-819-k\Administrator,pRgPqQuQLkCYT4DSsMzA,w-819-k,819
+744a73f977489e4439d0b0c44d2af0a7,https://T-818-169-59-150-186.ibmztrialmachines.com/,Administrator,T-818-169-59-150-186.ibmztrialmachines.com,w-818-k\Administrator,V9nIbzKwoZo1YRruGifE,w-818-k,818
+1bce6f3bfa1c69450bed38979deb228c,https://T-820-169-59-153-139.ibmztrialmachines.com/,Administrator,T-820-169-59-153-139.ibmztrialmachines.com,w-820-k\Administrator,SnIOVchz4yOz5SrDwkee,w-820-k,820
+933d479cca95dd64e8d942b427d59bf8,https://T-821-169-59-150-188.ibmztrialmachines.com/,Administrator,T-821-169-59-150-188.ibmztrialmachines.com,w-821-k\Administrator,1zTtBpXF5emzu9Df5UGs,w-821-k,821
+28f24ba494bdb8cbf48bfdb881e2a3aa,https://T-817-169-59-153-244.ibmztrialmachines.com/,Administrator,T-817-169-59-153-244.ibmztrialmachines.com,w-817-k\Administrator,S6X52vPxL4hNT8nBGGo4,w-817-k,817
+e9d98c5dd969d150dbff730e51e405f6,https://T-824-169-59-153-146.ibmztrialmachines.com/,Administrator,T-824-169-59-153-146.ibmztrialmachines.com,w-824-k\Administrator,FUH40HjmCpSQRL84CR3T,w-824-k,824
+ee74215a2d7f82f9cf2c0498f1485010,https://T-822-169-59-153-166.ibmztrialmachines.com/,Administrator,T-822-169-59-153-166.ibmztrialmachines.com,w-822-k\Administrator,I72opPIf3KjlDwNWEVBO,w-822-k,822
+a780b6347fc3e3242e875f5d58814918,https://T-823-169-59-153-169.ibmztrialmachines.com/,Administrator,T-823-169-59-153-169.ibmztrialmachines.com,w-823-k\Administrator,28lPpGAbFMkXXlKe4fv7,w-823-k,823
